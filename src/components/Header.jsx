@@ -17,7 +17,7 @@ export default function Header() {
           <nav className="hidden md:flex items-center gap-8">
             <Link className="text-sm font-medium text-gray-600 dark:text-gray-300 hover:text-primary dark:hover:text-primary transition-colors" href="/Home">Inicio</Link>
             <Link className="text-sm font-medium text-primary dark:text-primary" href="/services">Servicios</Link>
-            <Link className="text-sm font-medium text-gray-600 dark:text-gray-300 hover:text-primary dark:hover:text-primary transition-colors" href="#">Portafolio</Link>
+            <Link className="text-sm font-medium text-gray-600 dark:text-gray-300 hover:text-primary dark:hover:text-primary transition-colors" href="/portfolio">Portafolio</Link>
             <Link className="text-sm font-medium text-gray-600 dark:text-gray-300 hover:text-primary dark:hover:text-primary transition-colors" href="/Contact">Contacto</Link>
             <button className="bg-primary text-white px-4 py-2 rounded-lg text-sm font-bold hover:bg-primary/90 transition-colors">
               Cotizar
