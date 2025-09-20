@@ -9,12 +9,12 @@ const portfolioItems = [
   {
     title: 'Valla Publicitaria - Llanos Tour',
     category: 'Publicidad Exterior',
-    imageUrl: 'https://images.unsplash.com/photo-15201860-3989b6857a53?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+    imageUrl: 'https://llanotourscolombia.com/wp-content/uploads/2024/06/cropped-1.-Logo-Principal-LLano-tours-4.png',
   },
   {
     title: 'Branding Corporativo - Café del Llano',
     category: 'Diseño Gráfico',
-    imageUrl: 'https://images.unsplash.com/photo-1579237719972-dbd2d2421d5c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+    imageUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwlrVOAwZrjg_or48M_Eh2SnUA01obx3rQ4Q&s',
   },
   {
     title: 'Sitio Web E-commerce - Artesanías del Meta',

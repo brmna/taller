@@ -36,11 +36,11 @@ export default function HomePage() {
   return (
     <main>
       {/* Hero Section */}
-      <section className="bg-primary text-white text-center py-20">
+      <section className="bg-primary text-black text-center py-20">
         <div className="container mx-auto px-4">
           <h1 className="text-5xl font-extrabold tracking-tight">Tu Socio Estratégico en Publicidad</h1>
           <p className="mt-4 text-lg">En Publimeta S.A.S, llevamos tu marca al siguiente nivel.</p>
-          <Link href="/services" className="mt-8 inline-block bg-white text-primary font-bold py-3 px-8 rounded-lg hover:bg-gray-200 transition-colors">
+          <Link href="/services" className="mt-8 inline-block bg-gray-200 text-primary font-bold py-3 px-8 rounded-lg hover:bg-gray-300 transition-colors">
             Conoce Nuestros Servicios
           </Link>
         </div>

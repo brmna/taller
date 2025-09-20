@@ -20,7 +20,6 @@ export default function Header() {
             <Link className="text-sm font-medium text-gray-600 dark:text-gray-300 hover:text-primary dark:hover:text-primary transition-colors" href="/portfolio">Portafolio</Link>
             <Link className="text-sm font-medium text-gray-600 dark:text-gray-300 hover:text-primary dark:hover:text-primary transition-colors" href="/Contact">Contacto</Link>
             <button className="bg-primary text-white px-4 py-2 rounded-lg text-sm font-bold hover:bg-primary/90 transition-colors">
-              Cotizar
             </button>
           </nav>
           <button className="md:hidden text-gray-900 dark:text-white">
